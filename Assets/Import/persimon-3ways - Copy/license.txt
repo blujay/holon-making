@@ -1,0 +1,11 @@
+Model Information:
+* title:	persimon - whole, cut and seed
+* source:	https://sketchfab.com/3d-models/persimon-whole-cut-and-seed-346d0b5a95c94c2890dbff3b38984719
+* author:	Maf'j Alvarez (https://sketchfab.com/blujay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "persimon - whole, cut and seed" (https://sketchfab.com/3d-models/persimon-whole-cut-and-seed-346d0b5a95c94c2890dbff3b38984719) by Maf'j Alvarez (https://sketchfab.com/blujay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
